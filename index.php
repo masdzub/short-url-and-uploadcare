@@ -104,6 +104,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
     <title>URL Shortener and Image Upload</title>
     <link rel="icon" href="https://ucarecdn.com/90cb273d-ec6c-4516-adc4-cfc07442805f/-/scale_crop/30x30/" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
